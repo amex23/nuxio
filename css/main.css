@@ -409,7 +409,7 @@ img {
 #about-a .bio {
   grid-area: bio;
   /* border-left: 3px solid #ffbc00; */
-  border-left: 3px solid #7E20C9;;
+  /* border-left: 3px solid #7E20C9;; */
   padding: 0.8rem;
 }
 
@@ -615,12 +615,13 @@ img {
     font-size: 2rem;
   }
   #main-footer {
-    height: 7rem;
+    height: auto;
   }
   #main-footer .footer-content {
     flex-direction: column;
     padding: 1rem;
-    height: 5rem;
+    /* height: 5rem; */
+	gap: 20px;
   }
 
   #header-home .header-content h1 {
