@@ -111,7 +111,7 @@ input[class^="btn-"]:hover {
   text-align: center;
   font-weight: 100;
   text-transform: uppercase;
-  color: #333;
+  color: white;
 }
 
 .bottom-line {
@@ -665,4 +665,8 @@ img {
 	align-items: center;
 	gap: 8px;
 	font-size: 14px;
+}
+
+.blog-title {
+	color: #333;
 }
