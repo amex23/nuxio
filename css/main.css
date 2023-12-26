@@ -111,7 +111,7 @@ input[class^="btn-"]:hover {
   text-align: center;
   font-weight: 100;
   text-transform: uppercase;
-  color: white;
+  color: #333;
 }
 
 .bottom-line {
@@ -246,7 +246,7 @@ img {
 @media only screen and (min-width: 601px) {
 	#logo {
 		width: 18%;
-    	margin-top: 1vh;
+    	/* margin-top: 1vh; */
 	}
 }
 
